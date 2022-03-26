@@ -1,14 +1,18 @@
 ### I'm so glad to see you here!!!
+
+<hr/>
+
+<ul dir="auto">
+  <li> 🔭 I’m currently working at Omnilogic</li>
+  <li> 📊 I’m currently working as intern Data Annotation Labeling and Training Algorithms</li>
+  <li> 🌱 I’m currently learning Data Science and Electrical Engineering</li>
+  <li> 👯 I’m looking to collaborate on Machine Learning, Deep Learning, Math, Physics</li>
+  <li> 💬 Ask me about Brazil</li>
+  <li> 📫 How to reach me: magalhaesbrunop@gmail.com</li>
+  <li> ⚡ Fun fact: I like Russian and Georgian food</li>
+</ul>
+
 <hr/> 
-<!--
-- 🔭 I’m currently working on Omnilogic <br/>
-- 📊 I’m currently working as intern Data Annotation Labeling and Training Algorithms <br/>
-- 🌱 I’m currently learning Data Science and Electrical Engineering <br/>
-- 👯 I’m looking to collaborate on Machine Learning, Deep Learning, Math, Physics <br/>
-- 💬 Ask me about Brazil <br/>
-- 📫 How to reach me: magalhaesbrunop@gmail.com <br/>
-- ⚡ Fun fact: I like Russian and Georgian food <br/>
--->
 
 <div align="center">
   <a href="https://github.com/magalhaesbrunop">

@@ -4,7 +4,7 @@
 
 <ul dir="auto">
   <li> 🔭 I’m currently working at Omnilogic</li>
-  <li> 📊 I’m currently working as intern Data Annotation Labeling and Training Algorithms</li>
+  <li> 📊 I’m currently working as intern Data Annotation Labeling and Training Sets</li>
   <li> 🌱 I’m currently learning Data Science and Electrical Engineering</li>
   <li> 👯 I’m looking to collaborate on Machine Learning, Deep Learning, Math, Physics</li>
   <li> 💬 Ask me about Brazil</li>
